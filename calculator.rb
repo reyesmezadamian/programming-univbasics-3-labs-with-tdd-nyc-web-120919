@@ -1,1 +1,1 @@
-first_number = 01
+first_number = 1
